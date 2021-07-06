@@ -1,6 +1,8 @@
 #Author: Dhwani Patel
 #This is first program of implementing neural network with 3 neurons having its 4 inputs
-#inputs here are outputs from other neurons
+#inputs => outputs from other neurons
+#weights => number of different weights each neuron in a layer can have
+#bais => number of neurons associated with it
 
 inputs = [1,2,3, 2.5]
 weights1 = [0.2,0.8,-0.5,1]
