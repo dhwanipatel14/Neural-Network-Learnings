@@ -1,3 +1,5 @@
+#Author: Dhwani Patel
+#Using Activation Function to computute output from layers
 import numpy as np
 import nnfs
 from nnfs.datasets import spiral_data
