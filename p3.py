@@ -1,3 +1,4 @@
+#Author: Dhwani Patel
 #Dot product 
 import numpy as np
 
