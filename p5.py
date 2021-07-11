@@ -29,5 +29,3 @@ layer1.forward(X)
 #print(layer1.output)
 activation1.forward(layer1.output)
 print(activation1.output)
-
-
